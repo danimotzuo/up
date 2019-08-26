@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: Alisson Mel
-Plugin URI: http://sweetyus.biz
+Plugin URI: http://sweetyus.biz e http://linksweb.com.br
 Tags: excerpt, auto, auto excerpt, excerpts, excerpt length, force excerpt, post, posts, plugin, automatic, automatic excerpt, the_excerpt(), the_content(), archives, homepage, homepage excerpt, thumbnail
 Requires at least: 1.5
 Tested up to: 3.*
